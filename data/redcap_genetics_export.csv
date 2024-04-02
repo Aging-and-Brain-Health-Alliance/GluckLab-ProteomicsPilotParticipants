@@ -1,0 +1,1060 @@
+Sequential ID,Repeat Instrument,Repeat Instance,Data Access Group,Processing Date (MM-DD-YYYY),BDNF gene (rs6265),APO-E gene (rs429358),APoE Risk,APO-E gene (rs7412),"APP, PS1 and PS2 genes (rs63750671)","APP, PS1, and PS2 genes (rs63750231)","APP, PS1, and PS2 genes (rs63750215)",ABCA7 gene (rs115550680),ABCA7-80 Risk,ABCA7 gene (rs3764650),ABCA7-50 Risk,ABCA7 gene (rs115553053),ABCA7 gene (rs4147929),GSTO1 gene (rs4925),WWC1 gene (rs17070145),TREM 1 gene (rs6910730),TREM 2 gene (rs75932628),TREM 2 gene (rs7759295),APOL1 gene (rs73885319),APOL1 gene (rs60910145),APOL1 gene (rs71785313),TOMM40 gene (rs2075650),Notes,Complete?
+A078,Genetics,3,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CC,GG,CC,CC,AA,TT,TTATAA-,AG,,Incomplete
+A079,Genetics,4,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AA,CC,CC,AA,TT,TTATAA-,AA,,Incomplete
+A160,Genetics,5,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CC,AG,CC,CC,AG,GT,TTATAATTATAA,AG,,Incomplete
+A174,Genetics,5,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,AG,CC,TT,GG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+A174,Genetics,6,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,AG,CC,TT,GG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+A189,Genetics,5,,10/20/23,CC,CT,1,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AG,,Incomplete
+A259,Genetics,5,,7/21/23,CC,CT,1,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AG,,Complete
+A269,Genetics,3,,10/20/23,CC,TT,0,CC,GG,AA,AA,AG,1,TT,0,CC,GG,CC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+A304,Genetics,3,,10/20/23,CC,CT,1,CC,Refused or Missing,Refused or Missing,AA,AG,1,TT,0,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAA-,AA,,Incomplete
+A472,Genetics,3,,10/20/23,CC,CT,1,CT,GG,AA,AA,AG,1,TT,0,CT,GG,AC,CT,AA,CC,CT,AA,TT,TTATAA-,AA,,Incomplete
+A486,Genetics,4,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,CT,AG,CC,CC,AG,GT,TTATAATTATAA,AG,,Complete
+A503,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AG,1,TT,0,CT,GG,CC,TT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C002,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C003,Genetics,1,,7/18/23,CT,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C005,Genetics,1,,7/18/23,CT,CT,1,CT,GG,AA,AA,AG,1,TT,0,CT,GG,AC,TT,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C018,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CC,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C019,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C020,Genetics,1,,7/18/23,CC,CT,1,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C022,Genetics,1,,7/18/23,CC,CC,1,CC,GG,AA,AA,AA,0,TT,0,CC,AG,CC,CT,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C024,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,CT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C027,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C028,Genetics,1,,7/18/23,CT,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C029,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C033,Genetics,1,,7/18/23,CC,TT,0,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C036,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C037,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C040,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C044,Genetics,1,,7/18/23,CT,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C047,Genetics,1,,7/18/23,CT,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AA,CC,CT,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C048,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,TT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C049,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,CT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C050,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AG,1,TT,0,CT,GG,CC,CT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C051,Genetics,1,,7/18/23,CC,TT,0,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C052,Genetics,1,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,TT,AA,CC,CC,AG,GT,TTATAATTATAA,AA,,Complete
+C054,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CC,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C056,Genetics,1,,7/21/23,CC,TT,0,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,GG,GG,TTATAATTATAA,AA,,Complete
+C058,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,CT,AA,CC,CC,GG,GG,TTATAATTATAA,AG,,Complete
+C059,Genetics,1,,7/21/23,CC,CC,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CC,GG,GG,TTATAATTATAA,AA,,Complete
+C060,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,GG,CC,CC,AG,GT,TTATAATTATAA,AA,,Complete
+C061,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CT,AA,TT,TTATAATTATAA,AA,,Complete
+C062,Genetics,1,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CC,AG,CC,CC,GG,GG,TTATAATTATAA,AA,,Complete
+C063,Genetics,1,,7/21/23,CC,CC,1,CC,GG,AA,AA,AG,1,TT,0,CT,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C081,Genetics,1,,7/21/23,CT,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CC,GG,CC,CT,AG,GT,TTATAATTATAA,AA,,Complete
+C082,Genetics,1,,7/21/23,CC,TT,0,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C091,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CC,AA,CC,CC,AA,TT,TTATAATTATAA,AG,,Complete
+C093,Genetics,1,,7/21/23,CC,CC,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,GG,CC,CC,AG,GT,TTATAATTATAA,AA,,Complete
+C094,Genetics,1,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,GG,CC,CC,AG,GT,TTATAATTATAA,AA,,Complete
+C095,Genetics,1,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AG,GT,TTATAATTATAA,AA,,Complete
+C098,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,CC,AG,CC,CC,AG,GT,TTATAATTATAA,AA,,Complete
+C100,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAA-,AA,,Complete
+C110,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,TT,GG,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C113,Genetics,1,,7/21/23,CT,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,GG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C116,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C121,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,AA,TT,TTATAATTATAA,AG,,Incomplete
+C128,Genetics,1,,7/21/23,CT,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CT,AA,TT,TTATAATTATAA,AA,,Complete
+C129,Genetics,1,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,AG,AC,CT,AG,CC,CC,AG,GT,TTATAATTATAA,AG,,Complete
+C131,Genetics,1,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C132,Genetics,1,,7/21/23,CC,CT,1,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,AA,TT,TTATAATTATAA,AG,,Complete
+C133,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AG,1,TT,0,CC,GG,CC,CC,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C134,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AG,,Complete
+C135,Genetics,1,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C142,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,TT,AG,CC,CC,AG,GT,TTATAATTATAA,GG,,Incomplete
+C143,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C145,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C146,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C147,Genetics,1,,10/20/23,CC,TT,0,CT,GG,AA,AA,AA,0,TT,0,CC,GG,AC,TT,AG,CC,CC,AA,TT,TTATAATTATAA,AG,,Incomplete
+C149,Genetics,1,,10/20/23,CC,CC,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C150,Genetics,1,,10/20/23,CC,CT,1,CT,GG,AA,AA,GG,1,TT,0,CT,GG,CC,CC,AA,CC,CC,AA,TT,TTATAATTATAA,AG,,Incomplete
+C151,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C153,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAA-,AA,,Incomplete
+C154,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,AA,TT,TTATAA-,AA,,Incomplete
+C155,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C156,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AG,1,TT,0,CT,GG,CC,TT,GG,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C157,Genetics,1,,10/20/23,CC,TT,0,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C162,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AG,1,TT,0,CC,GG,CC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AG,,Incomplete
+C163,Genetics,1,,10/20/23,CC,TT,0,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,GG,CC,CC,AA,TT,TTATAATTATAA,AG,,Incomplete
+C164,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C165,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C167,Genetics,1,,10/20/23,CT,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,AG,AC,TT,AA,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C170,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AG,,Incomplete
+C172,Genetics,1,,10/20/23,CC,CC,1,CC,Refused or Missing,AA,AA,AG,1,TT,0,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C173,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,GG,GG,TTATAATTATAA,AG,,Incomplete
+C175,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,AG,CC,CC,GG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C176,Genetics,1,,10/20/23,CC,TT,0,CT,GG,AA,AA,AA,0,TT,0,CC,GG,AC,CT,AA,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C177,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,GG,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C179,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CC,AG,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C181,Genetics,1,,10/20/23,CT,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AA,CC,CT,AG,GT,TTATAATTATAA,AA,,Incomplete
+C182,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C184,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,AC,CT,GG,CC,CT,AG,GT,TTATAA-,AA,,Incomplete
+C187,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AG,1,TT,0,CT,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C188,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AA,CC,CC,AA,TT,TTATAATTATAA,AG,,Incomplete
+C189,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AG,GT,TTATAATTATAA,AG,,Incomplete
+C191,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C192,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AG,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C195,Genetics,1,,10/20/23,CT,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AG,CC,CC,AG,GT,TTATAA-,AG,,Incomplete
+C196,Genetics,1,,10/20/23,CC,TT,0,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,AA,CC,CC,AG,GT,TTATAATTATAA,AG,,Incomplete
+C197,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CT,GG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C200,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CC,AG,CC,CC,AG,GT,TTATAA-,AA,,Incomplete
+C201,Genetics,1,,10/20/23,CC,TT,0,CT,GG,AA,AA,AA,0,TT,0,CC,GG,CC,CC,GG,CC,CC,AA,TT,TTATAATTATAA,AG,,Incomplete
+C203,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AG,1,TT,0,CT,GG,AA,CC,GG,CC,CT,AA,TT,TTATAA-,AA,,Incomplete
+L021,Genetics,2,,10/20/23,CT,CT,1,CC,GG,AA,AA,AA,0,TT,0,CC,GG,CC,TT,AA,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+A143,Genetics,5,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,AC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AG,,Incomplete
+A264,Genetics,3,,10/20/23,CC,TT,0,CT,GG,AA,AA,AA,0,TG,1,CC,AG,AC,CT,AG,CC,CC,AG,GT,TTATAATTATAA,AG,,Incomplete
+A359,Genetics,3,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,GG,1,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+A392,Genetics,3,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,GG,CC,CC,AA,TT,TTATAATTATAA,AG,,Complete
+A455,Genetics,4,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CC,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+A457,Genetics,4,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,AC,CC,AA,CC,CC,AG,GT,TTATAATTATAA,AG,,Incomplete
+A504,Genetics,1,,7/18/23,CC,TT,0,CT,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C001,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AA,0,GG,1,CC,GG,AC,CC,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C001,Genetics,2,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,GG,1,CC,GG,AC,CC,AA,CC,CC,AA,TT,TTATAA-,AA,,Incomplete
+C004,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AG,1,TG,1,CT,GG,CC,CT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C008,Genetics,1,,7/18/23,CC,TT,0,CT,GG,AA,AA,AA,0,TG,1,CC,AG,CC,TT,AA,CC,CT,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C010,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,TT,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C011,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,TT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C012,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AG,CC,CC,AA,TT,Refused or Missing,AA,,Unverified
+C012,Genetics,2,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AG,CC,CC,AA,TT,,AA,,Complete
+C014,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AA,0,GG,1,CC,GG,CC,TT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C015,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AG,1,TG,1,CT,GG,CC,CT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C021,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,GG,1,CC,GG,CC,TT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C023,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CC,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C025,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C026,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,AG,CC,CC,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C030,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,GG,1,CC,GG,CC,CT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C031,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C032,Genetics,1,,7/18/23,CC,CC,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C034,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,AG,AC,TT,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C035,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,AG,CC,CT,GG,CC,CT,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C038,Genetics,1,,7/18/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C039,Genetics,1,,7/18/23,CT,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,AC,TT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C041,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,TT,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C042,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,AG,CC,TT,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C043,Genetics,1,,7/18/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,TT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C045,Genetics,1,,7/18/23,CC,TT,0,CT,GG,AA,AA,AA,0,GG,1,CC,GG,CC,CT,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C046,Genetics,1,,7/18/23,CC,TT,0,CT,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CC,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C055,Genetics,1,,7/21/23,CC,TT,0,CT,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C064,Genetics,1,,7/21/23,CT,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,TT,AG,CC,CC,AA,TT,Refused or Missing,AA,,Complete
+C065,Genetics,1,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,AC,CT,AA,CC,CC,AG,GT,TTATAATTATAA,AA,,Complete
+C073,Genetics,1,,7/21/23,CT,TT,0,CC,GG,AA,AA,AA,0,GG,1,CC,GG,CC,TT,AG,CC,CC,AG,GT,TTATAATTATAA,AG,,Complete
+C080,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,AC,TT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C087,Genetics,1,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AG,CC,CC,AG,GT,TTATAA-,AA,,Complete
+C088,Genetics,1,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CC,AA,CC,CC,AG,GT,TTATAATTATAA,AA,,Complete
+C089,Genetics,1,,7/21/23,CC,TT,0,CT,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,GG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C090,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,TT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C097,Genetics,1,,7/21/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C118,Genetics,1,,7/21/23,CT,TT,0,CC,GG,AA,AA,AA,0,GG,1,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C124,Genetics,1,,7/21/23,CC,CT,1,CT,GG,AA,AA,AA,0,GG,1,CC,GG,CC,CT,AA,CC,CT,AA,TT,TTATAATTATAA,AA,,Complete
+C127,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,TT,AG,CC,CC,AA,TT, --,AA,,Incomplete
+C136,Genetics,1,,7/21/23,CC,TT,0,CT,GG,AA,AA,AA,0,TG,1,CC,GG,AC,TT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C137,Genetics,1,,7/21/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AA,,Complete
+C138,Genetics,1,,7/21/23,CC,TT,0,CT,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AG,CC,CC,AG,GT,TTATAATTATAA,AG,,Complete
+C139,Genetics,1,,10/20/23,CC,TT,0,CT,GG,AA,AA,AA,0,TG,1,CC,GG,AC,CC,AG,CC,CC,AA,TT,TTATAA-,AA,,Incomplete
+C140,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,TT,AA,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C141,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,GG,1,CC,GG,CC,TT,AG,CC,CC,AA,TT,TTATAATTATAA,AG,,Incomplete
+C144,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,GG,1,CC,GG,CC,TT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C148,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C152,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AG,1,TG,1,CC,GG,CC,CT,GG,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C158,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,AG,CC,CT,AA,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C159,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,GG,1,CC,GG,CC,CC,AG,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C160,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AG,CC,CC,AG,GT,TTATAATTATAA,AG,,Incomplete
+C161,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AG,1,TG,1,CC,GG,CC,TT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C166,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,AC,CC,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C171,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C174,Genetics,1,,10/20/23,CC,CT,1,CT,GG,AA,AA,AA,0,TG,1,CC,GG,AC,CT,GG,CC,CT,AA,TT,TTATAA-,AA,,Incomplete
+C178,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C183,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CC,AG,CC,CT,AA,TT,TTATAA-,AA,,Incomplete
+C185,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CC,AG,CC,CC,AG,GT,TTATAA-,AA,,Incomplete
+C186,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CC,AA,CC,CC,AG,GT,TTATAATTATAA,AA,,Incomplete
+C190,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,TT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C193,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,TG,1,CC,GG,AC,TT,AA,CC,CC,AA,TT,TTATAA-,AA,,Incomplete
+C194,Genetics,1,,10/20/23,CC,CT,1,CC,GG,AA,AA,AA,0,GG,1,CC,GG,AC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C198,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AA,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+C199,Genetics,1,,10/20/23,CT,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAA-,AA,,Incomplete
+C202,Genetics,1,,10/20/23,CC,TT,0,CC,GG,AA,AA,AA,0,TG,1,CC,GG,CC,CT,AG,CC,CC,AA,TT,TTATAATTATAA,AA,,Incomplete
+A120,Genetics,1,,,,,Refused or Missing,,,,,,Refused or Missing,,Refused or Missing,,,,,,,,,,,,,Incomplete
+A161,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A176,Genetics,1,,,,,Refused or Missing,,,,,,Refused or Missing,,Refused or Missing,,,,,,,,,,,,,Incomplete
+A198,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A215,Genetics,1,,,,,Refused or Missing,,,,,,Refused or Missing,,Refused or Missing,,,,,,,,,,,,,Incomplete
+A254,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A257,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A258,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A261,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A264,Genetics,1,,,,,Refused or Missing,,,,,,Refused or Missing,,Refused or Missing,,,,,,,,,,,,,Incomplete
+A273,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A274,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A286,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A287,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A289,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A293,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A295,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A299,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A301,Genetics,1,,,,,Refused or Missing,,,,,,Refused or Missing,,Refused or Missing,,,,,,,,,,,,,Incomplete
+A313,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A324,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A342,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A359,Genetics,1,,,,,Refused or Missing,,,,,,Refused or Missing,,Refused or Missing,,,,,,,,,,,,,Incomplete
+A374,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A382,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A437,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A446,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CT,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A449,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A451,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CT,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A455,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A456,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A457,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A460,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A461,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A465,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A467,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CT,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A472,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CT,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+A475,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,GG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C006,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+C109,Genetics,1,,10/20/23,CC,CT,1,Refused or Missing,Refused or Missing,Refused or Missing,AA,AA,0,Refused or Missing,Refused or Missing,CC,GG,CC,CC,AA,CC,CC,AA,Refused or Missing, --,AG,,Incomplete
+C168,Genetics,1,,10/20/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Incomplete
+C180,Genetics,1,,10/20/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Incomplete
+L002,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+L003,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+L004,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+L006,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+L014,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AG,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+L015,Genetics,1,,7/18/23,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CC,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,,Unverified
+L270,Genetics,1,,7/6/20,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,Refused or Missing,AA,CC,CC,,,,,,Complete
+A0test,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A001,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A002,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A003,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A004,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A005,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A006,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A007,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A008,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A009,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A010,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A011,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A012,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A013,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A014,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A015,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A016,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A017,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A018,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A019,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A020,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A021,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A022,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A023,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A024,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A025,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A026,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A027,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A028,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A029,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A030,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A031,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A032,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A033,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A034,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A035,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A036,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A037,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A038,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A039,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A040,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A041,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A042,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A043,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A044,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A045,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A046,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A047,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A048,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A049,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A050,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A051,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A052,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A053,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A054,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A055,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A056,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A057,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A058,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A059,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A060,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A061,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A062,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A063,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A064,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A065,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A068,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A069,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A070,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A071,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A072,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A073,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A074,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A075,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A076,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A077,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A078,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A079,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A080,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A081,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A082,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A083,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A084,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A085,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A086,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A087,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A088,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A089,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A090,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A091,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A092,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A093,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A094,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A095,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A096,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A097,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A098,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A099,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A100,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A101,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A102,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A103,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A104,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A105,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A106,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A107,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A108,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A109,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A110,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A111,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A112,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A113,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A114,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A115,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A116,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A117,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A118,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A119,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A120,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A121,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A122,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A123,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A124,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A125,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A126,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A127,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A128,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A129,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A130,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A131,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A132,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A133,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A134,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A135,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A136,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A137,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A138,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A139,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A140,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A141,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A142,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A143,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A144,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A145,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A146,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A147,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A148,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A149,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A150,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A151,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A152,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A153,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A154,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A155,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A156,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A157,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A158,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A159,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A160,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A161,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A162,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A163,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A164,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A165,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A166,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A167,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A168,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A169,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A170,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A171,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A172,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A173,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A174,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A175,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A176,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A177,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A178,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A179,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A180,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A181,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A182,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A183,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A184,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A185,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A186,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A187,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A188,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A189,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A190,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A191,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A192,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A193,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A194,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A195,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A196,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A197,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A198,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A199,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A200,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A201,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A202,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A203,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A204,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A205,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A206,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A207,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A208,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A209,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A210,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A211,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A212,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A213,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A214,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A215,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A216,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A217,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A218,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A219,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A220,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A221,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A222,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A223,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A224,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A225,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A226,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A227,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A228,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A229,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A230,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A231,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A232,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A233,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A234,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A235,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A236,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A237,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A238,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A239,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A240,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A241,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A242,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A243,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A244,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A245,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A246,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A247,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A248,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A249,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A250,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A251,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A252,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A253,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A254,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A255,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A256,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A257,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A258,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A259,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A260,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A261,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A262,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A263,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A264,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A265,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A266,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A267,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A268,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A269,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A270,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A271,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A272,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A273,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A274,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A275,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A276,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A277,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A278,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A279,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A280,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A281,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A282,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A283,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A284,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A285,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A286,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A287,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A288,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A289,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A290,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A291,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A292,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A293,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A294,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A295,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A296,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A297,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A298,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A299,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A300,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A301,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A302,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A303,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A304,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A305,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A306,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A307,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A308,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A309,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A310,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A311,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A312,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A313,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A314,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A315,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A316,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A317,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A318,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A319,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A320,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A321,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A322,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A323,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A324,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A325,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A326,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A327,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A328,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A329,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A330,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A331,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A332,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A333,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A334,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A335,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A336,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A337,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A338,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A339,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A340,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A341,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A342,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A343,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A344,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A345,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A346,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A347,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A348,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A349,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A350,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A351,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A352,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A353,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A354,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A355,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A356,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A357,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A358,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A359,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A360,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A361,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A362,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A363,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A364,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A365,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A366,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A367,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A368,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A369,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A370,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A371,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A372,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A373,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A374,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A375,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A376,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A377,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A378,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A379,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A380,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A381,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A382,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A383,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A384,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A385,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A386,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A387,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A388,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A389,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A390,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A391,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A392,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A393,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A394,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A395,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A396,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A397,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A398,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A399,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A400,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A401,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A402,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A403,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A404,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A405,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A406,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A407,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A408,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A409,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A410,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A411,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A412,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A413,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A414,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A415,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A416,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A417,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A418,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A419,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A420,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A421,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A422,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A423,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A424,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A425,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A426,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A427,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A428,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A429,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A430,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A431,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A432,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A433,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A434,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A435,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A436,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A437,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A438,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A439,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A440,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A441,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A442,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A443,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A444,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A445,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A446,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A447,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A448,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A449,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A450,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A451,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A452,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A453,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A454,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A455,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A456,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A457,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A458,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A459,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A460,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A461,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A462,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A463,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A464,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A465,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A466,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A467,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A468,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A469,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A470,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A471,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A472,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A473,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A474,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A475,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A476,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A477,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A478,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A479,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A480,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A481,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A482,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A483,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A484,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A485,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A486,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A487,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A488,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A489,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A490,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A491,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A492,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A493,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A494,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A495,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A496,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A497,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A498,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A499,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A500,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A501,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A502,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A503,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+A504,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C001,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C002,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C003,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C004,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C005,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C006,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C007,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C008,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C009,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C010,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C011,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C012,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C013,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C014,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C015,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C016,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C017,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C018,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C019,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C020,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C021,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C022,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C023,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C024,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C025,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C026,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C027,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C028,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C029,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C030,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C031,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C032,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C033,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C034,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C035,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C036,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C037,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C038,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C039,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C040,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C041,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C042,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C043,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C044,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C045,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C046,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C047,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C048,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C049,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C050,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C051,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C052,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C053,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C054,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C055,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C056,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C057,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C057A,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C058,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C059,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C060,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C061,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C062,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C063,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C064,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C065,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C066,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C067,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C068,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C069,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C070,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C071,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C072,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C073,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C074,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C075,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C076,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C077,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C078,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C079,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C080,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C081,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C082,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C083,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C084,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C085,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C086,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C087,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C088,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C089,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C090,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C091,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C092,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C093,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C094,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C095,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C096,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C097,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C098,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C099,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C100,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C101,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C102,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C103,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C104,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C105,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C106,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C107,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C108,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C109,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C110,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C111,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C112,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C113,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C114,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C116,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C117,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C118,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C119,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C120,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C121,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C123,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C124,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C125,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C126,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C127,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C128,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C129,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C130,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C131,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C132,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C133,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C134,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C135,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C136,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C137,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C138,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C139,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C140,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C141,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C142,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C143,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C144,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C145,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C146,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C147,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C148,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C149,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C150,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C151,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C152,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C153,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C154,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C155,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C156,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C157,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C158,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C159,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C160,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C161,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C162,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C163,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C164,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C165,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C166,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C167,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C168,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C170,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C171,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C172,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C173,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C174,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C175,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C176,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C177,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C178,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C179,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C180,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C181,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C182,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C183,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C184,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C185,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C186,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C187,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C188,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C189,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C190,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C191,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C192,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C193,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C194,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C195,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C196,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C197,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C198,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C199,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C200,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C201,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C202,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C203,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C204,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C205,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C206,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C207,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C208,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C209,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C210,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C211,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C212,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C213,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C214,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C215,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C216,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C217,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C218,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C219,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C220,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C221,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C222,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C223,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C224,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C225,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C226,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C227,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C228,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C229,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C230,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C231,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C232,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C233,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C234,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C235,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C236,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C237,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C238,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C239,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C240,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C241,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C242,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C243,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C244,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C245,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C246,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C248,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C250,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C252,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C253,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C254,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C255,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C256,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C257,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C259,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C260,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C261,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C262,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C263,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C264,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C265,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C266,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C267,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C269,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C270,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C271,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C272,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C273,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C274,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C275,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C276,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C278,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C281,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C282,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C283,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C284,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C287,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+C293,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L001,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L002,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L003,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L004,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L005,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L006,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L007,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L008,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L009,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L010,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L011,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L012,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L013,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L014,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L015,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L016,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L017,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L018,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L019,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L020,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L021,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L022,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L023,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L024,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L026,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L027,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L028,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L029,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L030,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L031,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L032,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L033,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L034,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L035,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L036,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L037,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L038,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L039,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L040,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L041,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L042,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L043,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L044,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L045,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L046,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L047,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L048,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L049,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L050,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L051,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L052,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L053,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L054,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L152,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L248,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L259,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L270,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
+L272,SeqID SubjectID Covariates,1,,,,,,,,,,,,,,,,,,,,,,,,,,
